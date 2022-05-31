@@ -4,5 +4,5 @@ services:
     container_name: wynntils-frontend
     build: .
     ports:
-      - '3000'
+      - '2999:3000'
 
