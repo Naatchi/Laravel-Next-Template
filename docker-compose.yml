@@ -1,8 +1,0 @@
-version: "3"
-services:
-  laravel:
-    container_name: wynntils-frontend
-    build: .
-    ports:
-      - '2999:3000'
-
